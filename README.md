@@ -17,5 +17,3 @@ Is project mein maine ek sales dataset ko analyze kiya hai taaki business growth
 - **Top Region:** North aur West regions ne major profit share contribute kiya.
 - **Product Performance:** Laptop ($55,000) sabse high-value product raha.
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshots/dashboard_view.png)
