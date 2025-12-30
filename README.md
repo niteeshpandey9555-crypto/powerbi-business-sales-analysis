@@ -2,6 +2,8 @@
 Business sales performance analysis dashboard built in Power BI with DAX and visual storytelling.
 # Sales Performance Analysis Dashboard (Power BI)
 
+Author Niteesh Pandey 
+
 ## 📊 Project Overview
 Is project mein maine ek sales dataset ko analyze kiya hai taaki business growth aur profitability ko samjha ja sake. Maine ismein Data Cleaning, DAX measures, aur Interactive Visualizations ka use kiya hai.
 
